@@ -1,0 +1,12 @@
+[
+	{
+		"author": "mathiasfraga@gmail",
+		"text": "Mensaje de prueba",
+		"date": "20/7/2022, 18:27:56"
+	},
+	{
+		"author": "mathiasfraga@gmail",
+		"text": "Prueba2",
+		"date": "20/7/2022, 18:28:01"
+	}
+]
